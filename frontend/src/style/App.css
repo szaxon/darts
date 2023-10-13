@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Cabin+Sketch&display=swap');
+
+body {
+    background-image: url('../images/dart-102881_1920.jpg');
+    background-size: cover;
+    margin-top: 15px;
+    margin-left: 18%;
+    font-size: 450%;
+    font-family: 'Cabin Sketch', cursive;
+}
+
+/* #table {
+    border: 1px solid black;
+} */
+
+td {
+    text-align: center;
+}
+
+.name {
+    text-align: left;
+}
+
+button {
+    padding: 1.25%;
+    border-radius: 50% 20% / 10% 40%;
+    font-family: 'Cabin Sketch', cursive;
+}
+
